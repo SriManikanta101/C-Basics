@@ -2,16 +2,16 @@
 void main()
 {
 	//variable declaration
-	int number1, number2, product;
+	int number1, number2, sum;
 	
 	//initialization
-	number1 =01;
-	number2 =34;
+	number1 =04;
+	number2 =44;
 	
 	//calculation
-	product = number1*number2;
+	sum = number1+number2;
 	
 	//output
-	printf("%d",product);
+	printf("%d",sum);
 	
 }
